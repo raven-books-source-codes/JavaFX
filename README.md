@@ -7,7 +7,7 @@ JavaFx学习笔记，整理自：http://tutorials.jenkov.com/javafx/index.html
 
 [1.OverView.md](https://github.com/raven-books-source-codes/JavaFX/blob/master/1.OverView.md)
 
-[2.First JavaFX Application.md](https://github.com/raven-books-source-codes/JavaFX/blob/master/2.First JavaFX Application.md)
+[2.First JavaFX Application.md](https://github.com/raven-books-source-codes/JavaFX/blob/master/2.First%20JavaFX%20Application.md)
 
 [3.Stage.md](https://github.com/raven-books-source-codes/JavaFX/blob/master/3.Stage.md)
 
@@ -15,7 +15,7 @@ JavaFx学习笔记，整理自：http://tutorials.jenkov.com/javafx/index.html
 
 [5.FXML.md](https://github.com/raven-books-source-codes/JavaFX/blob/master/5.FXML.md)
 
-[6.CSS Styling.md](https://github.com/raven-books-source-codes/JavaFX/blob/master/6.CSS Styling.md)
+[6.CSS Styling.md](https://github.com/raven-books-source-codes/JavaFX/blob/master/6.CSS%20Styling.md)
 
 [7.常用控件(1).md](https://github.com/raven-books-source-codes/JavaFX/blob/master/7.常用控件(1).md)
 
